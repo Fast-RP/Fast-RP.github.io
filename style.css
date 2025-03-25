@@ -21,9 +21,9 @@ body {
 
 .overlay-text {
     position: absolute;
-    top: 12%;
+    top: 15%;
     left: 50%;
-    transform: translate(-50%, -12%) rotate(-30deg) skew(-10deg, -5deg);
+    transform: translate(-50%, -15%) rotate(-15deg) skew(-10deg, -10deg);
     font-size: 48px;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
