@@ -20,14 +20,13 @@ body {
 
 .overlay-text {
     position: absolute;
-    top: 50%;
+    top: 20%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -20%);
     font-size: 48px;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
     color: black;
     text-decoration: underline;
-    background: rgba(255, 255, 255, 0.6);
     padding: 10px;
 }
